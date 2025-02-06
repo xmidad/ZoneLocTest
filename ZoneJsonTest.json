@@ -1,12 +1,17 @@
-[
 {
-  "messages":[
+  "ZoneInfo":[
     {
-      "ZoneID": 1,
-      "coordinates":{"x":500, "y": -200}}]},
-  {
-    "ZoneID": 2,"coordinates":{"x":500, "y": 0}},
-  {
-    "ZoneID": 3,"coordinates":{"x":500, "y": 200}}
-              
-] 
+      "ZoneId": "1",
+      "x": "200",
+      "y": "-200"
+    },
+    {
+      "ZoneId": "2",
+      "x": "200",
+      "y": "0"
+    },
+    {      
+      "ZoneId": "3",
+      "x": "200",
+      "y": "200"}
+  ]}
