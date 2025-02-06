@@ -1,0 +1,12 @@
+[
+{
+  "messages":[
+    {
+      "ZoneID": 1,
+      "coordinates":{"x":500, "y": -200}}]},
+  {
+    "ZoneID": 2,"coordinates":{"x":500, "y": 0}},
+  {
+    "ZoneID": 3,"coordinates":{"x":500, "y": 200}}
+              
+] 
